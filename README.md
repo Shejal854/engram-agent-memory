@@ -243,7 +243,7 @@ Provider model IDs and API bases can be overridden with the variables documented
 ### 8.2 Install & Choose a Vault
 
 ```bash
-git clone https://github.com/Juixe7/Graph-RAG-Agent-Memory-Service.git
+git clone https://github.com/Shejal854/engram-agent-memory.git
 cd Graph-RAG-Agent-Memory-Service
 ```
 
